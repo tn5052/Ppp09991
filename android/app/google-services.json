@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "722863673595",
+    "project_id": "talenties-5f525",
+    "storage_bucket": "talenties-5f525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722863673595:android:37194c7942596f5e8ba05e",
+        "android_client_info": {
+          "package_name": "com.mycompany.talenties"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722863673595-civ9js0juu1i8bcao6oa12dk1dq2bu52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.talenties",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "722863673595-u2tv8bdkcfa4aeesaedlic8hrmf8ci07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdXDOeRME99dKkfdiPguCEPdy0OPYpgUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722863673595-u2tv8bdkcfa4aeesaedlic8hrmf8ci07.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722863673595-41jk6v9rkv1hsg097b20jls7nkb3verf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.talenties"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
